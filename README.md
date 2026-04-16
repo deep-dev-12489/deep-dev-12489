@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Deepali! 
+### AI Engineer & RAG Specialist
+I architect high-precision Multimodal RAG engines and Agentic workflows designed to solve complex data challenges. Currently focusing on Deep Financial Intelligence and Automated Research.
 
-<!--
-**deep-dev-12489/deep-dev-12489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects Spotlight
+
+#### [FinanAI](https://github.com/deep-dev-12489/finan-ai)
+**Multimodal RAG Engine for SEC 10-K Analysis**
+- Combines Gemini 3 Flash and LangChain for zero-hallucination financial reporting.
+- - Interprets complex charts and tables with native multimodal reasoning.
+  - - Features a premium "Obsidian Glass" Streamlit interface.
+   
+    - #### [IntelliAnalyze](https://github.com/deep-dev-12489/IntelliAnalyze)
+    - **Intelligent Document Analysis Framework**
+    - - Automated extraction and semantic search for high-density technical documents.
+      - - Advanced orchestration using LangGraph for multi-step reasoning.
+       
+        - ---
+
+        ### GitHub Stats
+        ![Deepali's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-dev-12489&show_icons=true&theme=radical)
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-dev-12489&layout=compact&theme=radical)
+
+        ---
+
+        How to reach me: deepali.motwani@example.com (Placeholder)
+        Fun fact: I believe AI is the ultimate leverage for human creativity.
+        
